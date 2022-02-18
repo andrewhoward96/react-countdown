@@ -29,6 +29,10 @@ class FlipClock extends React.Component {
       }
     
       updateTime() {
+        //Change Time here, once changed in terminal 
+        //type: git add .
+        //then: git commit -m "Random Message"
+        //then: git push 
         const difference = new Date(2022, 1, 19) - new Date();
 
         // Initalised Days, Hours, Minutes and Seconds

@@ -1,7 +1,7 @@
 const Header = () => {
     return(
       <header>
-        <h1>React Flip Clock</h1>
+        <h1>Countdown Timer For Torn</h1>
       </header>
     );
   };
