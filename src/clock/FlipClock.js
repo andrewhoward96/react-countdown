@@ -33,6 +33,8 @@ class FlipClock extends React.Component {
         //type: git add .
         //then: git commit -m "Random Message"
         //then: git push 
+        //then it will ask for your git user name 
+        //then it will ask for a password this is in a file
         const difference = new Date(2022, 1, 19) - new Date();
 
         // Initalised Days, Hours, Minutes and Seconds
